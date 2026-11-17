@@ -1,0 +1,14 @@
+
+{
+  "name": "ishimwe-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ishimwe Calculator by Ishimwe David",
+  "dependencies": {
+    "@capacitor/core": "^8.0.0",
+    "@capacitor/android": "^8.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.0.0"
+  }
+}
